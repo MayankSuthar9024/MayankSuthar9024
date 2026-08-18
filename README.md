@@ -9,15 +9,15 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero.svg" alt="YOUR NAME — Developer and builder" width="100%" />
+  <img src="./assets/hero.svg" alt="Mayank Suthar — Developer and builder" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">LINKEDIN</a>
+  <a href="https://www.linkedin.com/in/mayanksuthar90/">LINKEDIN</a>
   &nbsp;•&nbsp;
-  <a href="mailto:YOUR.EMAIL@example.com">EMAIL</a>
+  <a href="mailto:memayanksuthar@gmail.com">EMAIL</a>
   &nbsp;•&nbsp;
-  <a href="https://YOUR-PORTFOLIO.com">PORTFOLIO</a>
+  <a href="https://leetcode.com/u/Mayank_suthar/">LEETCODE</a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -26,11 +26,11 @@
 
 ```ts
 const developer = {
-  name: "YOUR NAME",
+  name: "Mayank Suthar",
   role: "Computer Science Student · Developer · Builder",
-  location: "YOUR CITY, YOUR COUNTRY",
+  location: "Rajasthan, India",
   focus: ["Web development", "Machine learning", "Problem solving"],
-  currentlyBuilding: "YOUR CURRENT PROJECT OR GOAL",
+  currentlyBuilding: "Portfolio projects and DSA practice",
   mindset: "Learn fast. Build useful things. Ship consistently."
 };
 ```
@@ -39,7 +39,7 @@ I’m a first-year Computer Science student who enjoys turning ideas into useful
 
 <img src="./assets/currently-building.svg" width="100%" alt="Currently building panel" />
 
-## `// SELECTED_WORK`
+<!-- ## `// SELECTED_WORK`
 
 Replace these examples with links to your actual repositories. Write the outcome first, then the technology.
 
@@ -47,14 +47,14 @@ Replace these examples with links to your actual repositories. Write the outcome
 | :-- | :-- | :-- |
 | [PROJECT ONE](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-ONE) | One clear sentence explaining the user problem it solves. | `Python` `Pandas` `Streamlit` |
 | [PROJECT TWO](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-TWO) | One clear sentence explaining the main feature or result. | `C++` `Algorithms` |
-| [PROJECT THREE](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-THREE) | One clear sentence explaining why this project is useful. | `HTML` `CSS` `JavaScript` |
+| [PROJECT THREE](https://github.com/YOUR-GITHUB-USERNAME/PROJECT-THREE) | One clear sentence explaining why this project is useful. | `HTML` `CSS` `JavaScript` | -->
 
-> **Portfolio rule:** Pin projects that have a clean README, screenshots, a live demo (when possible), and a clear problem they solve. Do not pin unfinished tutorial clones.
+<!-- > **Portfolio rule:** Pin projects that have a clean README, screenshots, a live demo (when possible), and a clear problem they solve. Do not pin unfinished tutorial clones. -->
 
 ## `// TECH_MATRIX`
 
 <p align="center">
-  <img src="./assets/tech-matrix.svg" alt="Technology matrix: Python, C++, HTML, CSS, JavaScript, Git, GitHub, NumPy, Pandas" width="100%" />
+  <img src="./assets/tech-matrix.svg" alt="Technology matrix: Python, C++, HTML, CSS, SQL, Git, GitHub, NumPy, Pandas" width="100%" />
 </p>
 
 <p align="center">
@@ -66,9 +66,9 @@ Replace these examples with links to your actual repositories. Write the outcome
 <img align="right" src="./assets/orbital-core.svg" width="260" alt="Animated orbital core illustration" />
 
 - `NOW` — Learning **C++**, data structures, algorithms, and machine learning foundations.
-- `BUILDING` — Add your current project, product, or open-source contribution here.
+<!-- - `BUILDING` — Add your current project, product, or open-source contribution here. -->
 - `OPEN TO` — Internships, beginner-friendly open source, hackathons, and thoughtful collaborations.
-- `REACH ME` — [YOUR.EMAIL@example.com](mailto:YOUR.EMAIL@example.com)
+- `REACH ME` — [memayanksuthar@gmail.com](mailto:memayanksuthar@gmail.com)
 
 <br clear="right" />
 
