@@ -13,11 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayanksuthar90/">LINKEDIN</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:memayanksuthar@gmail.com">EMAIL</a>
-  &nbsp;•&nbsp;
-  <a href="https://leetcode.com/u/Mayank_suthar/">LEETCODE</a>
+  <a href="mailto:memayanksuthar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mayanksuthar90/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MayankSuthar9024">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Mayank_suthar/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode" />
+  </a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -37,7 +44,7 @@ const developer = {
 
 I’m a first-year Computer Science student who enjoys turning ideas into useful products. I’m building strong fundamentals in programming, creating portfolio projects, and looking for opportunities to learn from real teams.
 
-<img src="./assets/currently-building.svg" width="100%" alt="Currently building panel" />
+<!-- <img src="./assets/currently-building.svg" width="100%" alt="Currently building panel" /> -->
 
 <!-- ## `// SELECTED_WORK`
 
@@ -66,7 +73,7 @@ Replace these examples with links to your actual repositories. Write the outcome
 <img align="right" src="./assets/orbital-core.svg" width="260" alt="Animated orbital core illustration" />
 
 - `NOW` — Learning **C++**, data structures, algorithms, and machine learning foundations.
-<!-- - `BUILDING` — Add your current project, product, or open-source contribution here. -->
+- `BUILDING` — jarvis ai, product, or open-source contribution here.
 - `OPEN TO` — Internships, beginner-friendly open source, hackathons, and thoughtful collaborations.
 - `REACH ME` — [memayanksuthar@gmail.com](mailto:memayanksuthar@gmail.com)
 
